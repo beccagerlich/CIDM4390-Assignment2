@@ -20501,8 +20501,13 @@
   "RootNamespace": "Assignment2",
   "Documents": [
     {
-      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Student/Edit.cshtml",
-      "TargetPath": "Views/Student/Edit.cshtml",
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Students/Index.cshtml",
+      "TargetPath": "Views/Students/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Students/Delete.cshtml",
+      "TargetPath": "Views/Students/Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20511,18 +20516,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Student/Details.cshtml",
-      "TargetPath": "Views/Student/Details.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/_ViewImports.cshtml",
       "TargetPath": "Views/_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Student/Create.cshtml",
-      "TargetPath": "Views/Student/Create.cshtml",
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Students/Create.cshtml",
+      "TargetPath": "Views/Students/Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Clients/Create.cshtml",
+      "TargetPath": "Views/Clients/Create.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20531,8 +20536,23 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Clients/Edit.cshtml",
+      "TargetPath": "Views/Clients/Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Students/Details.cshtml",
+      "TargetPath": "Views/Students/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Students/Edit.cshtml",
+      "TargetPath": "Views/Students/Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20546,8 +20566,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Student/Delete.cshtml",
-      "TargetPath": "Views/Student/Delete.cshtml",
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Clients/Details.cshtml",
+      "TargetPath": "Views/Clients/Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Clients/Index.cshtml",
+      "TargetPath": "Views/Clients/Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20556,8 +20581,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Student/Index.cshtml",
-      "TargetPath": "Views/Student/Index.cshtml",
+      "FilePath": "/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/Views/Clients/Delete.cshtml",
+      "TargetPath": "Views/Clients/Delete.cshtml",
       "FileKind": "mvc"
     }
   ],
