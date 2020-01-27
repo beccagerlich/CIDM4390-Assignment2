@@ -26,20 +26,8 @@ namespace Assignment2
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            
             services.AddDbContext<ClubContext>(options =>
-            {
-                var connectionString = Configuration.GetConnectionString("ClubContext");
-
-                if (Environment.IsDevelopment())
-                {
-                    options.UseSqlite(connectionString);
-                }
-                else
-                {
-                    options.UseSqlServer(connectionString);
-                }
-            });
+                options.UseSqlite(Configuration.GetConnectionString("ClubContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
