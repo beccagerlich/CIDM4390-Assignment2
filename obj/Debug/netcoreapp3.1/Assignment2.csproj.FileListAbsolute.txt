@@ -162,3 +162,8 @@
 /Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/obj/Debug/netcoreapp3.1/Razor/Views/Clients/Details.cshtml.g.cs
 /Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/obj/Debug/netcoreapp3.1/Razor/Views/Clients/Edit.cshtml.g.cs
 /Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/obj/Debug/netcoreapp3.1/Razor/Views/Clients/Index.cshtml.g.cs
+/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/obj/Debug/netcoreapp3.1/Razor/Views/Students/Create.cshtml.g.cs
+/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/obj/Debug/netcoreapp3.1/Razor/Views/Students/Delete.cshtml.g.cs
+/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/obj/Debug/netcoreapp3.1/Razor/Views/Students/Details.cshtml.g.cs
+/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/obj/Debug/netcoreapp3.1/Razor/Views/Students/Edit.cshtml.g.cs
+/Users/becca_gerlich/Documents/2020SP/CIDM4390/Assignment2/obj/Debug/netcoreapp3.1/Razor/Views/Students/Index.cshtml.g.cs
